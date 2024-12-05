@@ -14,9 +14,17 @@ build_property.EnableComHosting =
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\dev\projects\WebApplicationMA\WebApplicationMA
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/dev/projects/WebApplicationMA/WebApplicationMA/Views/Account/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTaWdudXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/projects/WebApplicationMA/WebApplicationMA/Views/Account/SignupSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTaWdudXBTdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
 
 [C:/dev/projects/WebApplicationMA/WebApplicationMA/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
